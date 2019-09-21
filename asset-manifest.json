@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/domains4sale/static/css/main.a7aaa281.chunk.css",
-    "main.js": "/domains4sale/static/js/main.e1cc3a5c.chunk.js",
-    "main.js.map": "/domains4sale/static/js/main.e1cc3a5c.chunk.js.map",
+    "main.css": "/domains4sale/static/css/main.5faa2ee8.chunk.css",
+    "main.js": "/domains4sale/static/js/main.d54e5ac4.chunk.js",
+    "main.js.map": "/domains4sale/static/js/main.d54e5ac4.chunk.js.map",
     "runtime-main.js": "/domains4sale/static/js/runtime-main.444d88dd.js",
     "runtime-main.js.map": "/domains4sale/static/js/runtime-main.444d88dd.js.map",
     "static/js/2.1fe7358f.chunk.js": "/domains4sale/static/js/2.1fe7358f.chunk.js",
     "static/js/2.1fe7358f.chunk.js.map": "/domains4sale/static/js/2.1fe7358f.chunk.js.map",
     "index.html": "/domains4sale/index.html",
-    "precache-manifest.ce0d649bb8f67d8d194c81af9be239d6.js": "/domains4sale/precache-manifest.ce0d649bb8f67d8d194c81af9be239d6.js",
+    "precache-manifest.3cc0fb84bfc6c0c22ee1fca8091bdf75.js": "/domains4sale/precache-manifest.3cc0fb84bfc6c0c22ee1fca8091bdf75.js",
     "service-worker.js": "/domains4sale/service-worker.js",
-    "static/css/main.a7aaa281.chunk.css.map": "/domains4sale/static/css/main.a7aaa281.chunk.css.map",
+    "static/css/main.5faa2ee8.chunk.css.map": "/domains4sale/static/css/main.5faa2ee8.chunk.css.map",
     "static/media/App.css": "/domains4sale/static/media/ir.8c4dd610.ttf",
     "static/media/play2.mp4": "/domains4sale/static/media/play2.8cfeca1a.mp4"
   }
