@@ -124,6 +124,7 @@ const Header = props => {
               <br />
               nomansskyvr.com
             </div>
+            <div className="contact">mnolan312@gmail.com</div>
           </h2>
         </h1>
       </div>
