@@ -1,23 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a442fb8cc9986584db395d08522926c4",
+    "revision": "03a0a07b34e5fd9ca149c01602a82ad4",
     "url": "/domains4sale/index.html"
   },
   {
-    "revision": "0ea6dc78c3c860e9260d",
-    "url": "/domains4sale/static/css/main.5faa2ee8.chunk.css"
+    "revision": "b6ac5b3615a25ed47a67",
+    "url": "/domains4sale/static/css/main.f010bb07.chunk.css"
   },
   {
     "revision": "0b261ee4eed96c89facb",
     "url": "/domains4sale/static/js/2.1fe7358f.chunk.js"
   },
   {
-    "revision": "0ea6dc78c3c860e9260d",
-    "url": "/domains4sale/static/js/main.d54e5ac4.chunk.js"
+    "revision": "b6ac5b3615a25ed47a67",
+    "url": "/domains4sale/static/js/main.e780cf84.chunk.js"
   },
   {
     "revision": "dd53866b33f38a23f86f",
     "url": "/domains4sale/static/js/runtime-main.444d88dd.js"
+  },
+  {
+    "revision": "75bb3c8dc8343c4c8ff097a50d5b1a49",
+    "url": "/domains4sale/static/media/1o.75bb3c8d.otf"
   },
   {
     "revision": "3c661fb83311a9af3fb2e2ce5baf5371",
