@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/domains4sale/static/css/main.f010bb07.chunk.css",
+    "main.css": "/domains4sale/static/css/main.da36e67c.chunk.css",
     "main.js": "/domains4sale/static/js/main.e780cf84.chunk.js",
     "main.js.map": "/domains4sale/static/js/main.e780cf84.chunk.js.map",
     "runtime-main.js": "/domains4sale/static/js/runtime-main.444d88dd.js",
@@ -8,9 +8,9 @@
     "static/js/2.1fe7358f.chunk.js": "/domains4sale/static/js/2.1fe7358f.chunk.js",
     "static/js/2.1fe7358f.chunk.js.map": "/domains4sale/static/js/2.1fe7358f.chunk.js.map",
     "index.html": "/domains4sale/index.html",
-    "precache-manifest.f5856b807c6e65c80a66def2dcd22a51.js": "/domains4sale/precache-manifest.f5856b807c6e65c80a66def2dcd22a51.js",
+    "precache-manifest.7e8b37ea978f53228fa9bfac75cae9c0.js": "/domains4sale/precache-manifest.7e8b37ea978f53228fa9bfac75cae9c0.js",
     "service-worker.js": "/domains4sale/service-worker.js",
-    "static/css/main.f010bb07.chunk.css.map": "/domains4sale/static/css/main.f010bb07.chunk.css.map",
+    "static/css/main.da36e67c.chunk.css.map": "/domains4sale/static/css/main.da36e67c.chunk.css.map",
     "static/media/App.css": "/domains4sale/static/media/ir.8c4dd610.ttf",
     "static/media/play2.mp4": "/domains4sale/static/media/play2.8cfeca1a.mp4"
   }
